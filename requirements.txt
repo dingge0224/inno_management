@@ -1,1 +1,10 @@
 streamlit
+streamlit_option_menu
+http 
+os
+time
+numpy
+graphviz
+matplotlib
+pandas
+dashscope
