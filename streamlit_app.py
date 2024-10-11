@@ -288,7 +288,7 @@ if choose == '灵感激发':
 
     # 添加一个按钮pip
     button = st.button("开始灵感碰撞")
-    dashscope.api_key='sk-2a94241b0582420cb3b14360a288e6b'
+    dashscope.api_key='sk-2a94241b0582420cb3b14360a288e6b1'
     # 在按钮被点击时执行的操作
     if button:
         result = call_with_prompt(option1, option2, option3)
